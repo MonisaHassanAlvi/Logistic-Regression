@@ -35,6 +35,22 @@ Implement the gradient descent and find optimal parameters. On optimal parameter
 ## Regularized logistic regression
 ![image](https://user-images.githubusercontent.com/85407775/121799899-50308200-cc48-11eb-863e-19112741155d.png)
 
+- ## Visualizing the data
+![image](https://user-images.githubusercontent.com/85407775/121799965-a56c9380-cc48-11eb-861c-57c12339e7e8.png)
+![image](https://user-images.githubusercontent.com/85407775/121799983-c1703500-cc48-11eb-8280-871f274754aa.png)
 
+- ## Feature Mapping
+![image](https://user-images.githubusercontent.com/85407775/121800000-d5b43200-cc48-11eb-9048-6bc2b55ebeae.png)
 
+- ## Cost function and gradient
+![image](https://user-images.githubusercontent.com/85407775/121800023-f1b7d380-cc48-11eb-93d2-f246cbfd1945.png)
 
+- ### Learning Parameters and Plotting
+Implement the gradient descent and find optimal parameters. Use final theta value to plot the decision boundary on the training data, resulting in a figure similar to Figure 4.
+
+![image](https://user-images.githubusercontent.com/85407775/121800071-275cbc80-cc49-11eb-8a82-f633740ebee7.png)
+
+- ### Try Different Regularization Parameters
+![image](https://user-images.githubusercontent.com/85407775/121800122-7145a280-cc49-11eb-87e6-4e0dee3aa8ef.png)
+![image](https://user-images.githubusercontent.com/85407775/121800128-7f93be80-cc49-11eb-9cb0-7b3e8b8c8359.png)
+![image](https://user-images.githubusercontent.com/85407775/121800137-8c181700-cc49-11eb-83c0-8c84fe6a4494.png)
