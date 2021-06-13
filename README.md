@@ -1,5 +1,5 @@
 # Logistic-Regression
-A Python project to demonstrate logistic regression with and without augmentation.
+A Python project to demonstrate logistic regression with and without regularization.
 
 # Tools & Applications
 - Pycharm Community Edition 2020.3.3
